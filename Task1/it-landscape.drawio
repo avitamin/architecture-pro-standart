@@ -41,7 +41,7 @@
         <mxCell id="org0" parent="1" vertex="1" value="Сеть отделений" style="rounded=0;html=1;whiteSpace=wrap;fillColor=#dae8f0;strokeColor=#ffffff;fontFamily=Arial;fontSize=18;fontColor=#173653;fontStyle=1;align=left;verticalAlign=middle;spacing=10;">
           <mxGeometry as="geometry" x="30" y="270" width="285" height="112" />
         </mxCell>
-        <mxCell id="r0c0" parent="1" vertex="1" value="&lt;b&gt;АБС&lt;/b&gt;&lt;br&gt;Открывает депозит, принимает заявку на кредит." style="rounded=0;html=1;whiteSpace=wrap;fillColor=#eef4f8;strokeColor=#ffffff;fontFamily=Arial;fontSize=16;fontColor=#233c50;fontStyle=0;align=left;verticalAlign=middle;spacing=10;">
+        <mxCell id="r0c0" parent="1" vertex="1" value="&lt;b&gt;АБС&lt;/b&gt;&lt;br&gt;Принимает заявки на депозит и кредит. Открывает депозит в АБС." style="rounded=0;html=1;whiteSpace=wrap;fillColor=#eef4f8;strokeColor=#ffffff;fontFamily=Arial;fontSize=16;fontColor=#233c50;fontStyle=0;align=left;verticalAlign=middle;spacing=10;">
           <mxGeometry as="geometry" x="315" y="270" width="244" height="112" />
         </mxCell>
         <mxCell id="r0c1" parent="1" vertex="1" value="—" style="rounded=0;html=1;whiteSpace=wrap;fillColor=#f6f8fa;strokeColor=#ffffff;fontFamily=Arial;fontSize=16;fontColor=#758594;fontStyle=0;align=center;verticalAlign=middle;spacing=10;">
@@ -185,7 +185,7 @@
         <mxCell id="r6c5" parent="1" vertex="1" value="—" style="rounded=0;html=1;whiteSpace=wrap;fillColor=#f6f8fa;strokeColor=#ffffff;fontFamily=Arial;fontSize=16;fontColor=#758594;fontStyle=0;align=center;verticalAlign=middle;spacing=10;">
           <mxGeometry as="geometry" x="1535" y="924" width="244" height="113" />
         </mxCell>
-        <mxCell id="channels" parent="1" vertex="1" value="&lt;b&gt;Цифровые каналы сегодня.&lt;/b&gt; Сайт публикует информацию. Интернет-банк обращается к БД АБС для платежей и текущих счетов. Клиент открывает депозит и подаёт кредитную заявку в отделении." style="rounded=0;html=1;whiteSpace=wrap;fillColor=#e6f2ef;strokeColor=#ffffff;fontFamily=Arial;fontSize=17;fontColor=#204b46;fontStyle=0;align=left;verticalAlign=middle;spacing=10;">
+        <mxCell id="channels" parent="1" vertex="1" value="&lt;b&gt;Цифровые каналы сегодня.&lt;/b&gt; Сайт публикует информацию. Интернет-банк обращается к БД АБС для платежей и текущих счетов. Заявки на депозит и кредит клиент подаёт в отделении. Накопительный счёт также открывается в отделении с участием бэк-офиса." style="rounded=0;html=1;whiteSpace=wrap;fillColor=#e6f2ef;strokeColor=#ffffff;fontFamily=Arial;fontSize=17;fontColor=#204b46;fontStyle=0;align=left;verticalAlign=middle;spacing=10;">
           <mxGeometry as="geometry" x="30" y="1052" width="1749" height="75" />
         </mxCell>
       </root>
