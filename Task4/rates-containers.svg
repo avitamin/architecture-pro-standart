@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="730" viewBox="0 0 1460 730" role="img">
+  <title>Как версия ставок доходит до оператора</title>
+  <desc>C4 · Контейнеры MVP. Выделены только участники публикации, чтения и файловой доставки.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#476776" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1460" height="730" fill="#ffffff" />
+  <text x="32" y="46" font-family="DejaVu Sans, sans-serif" font-size="30" text-anchor="start" font-weight="bold" fill="#1c3546">Как версия ставок доходит до оператора</text>
+  <text x="32" y="79" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#1c3546">C4 · Контейнеры MVP. Выделены только участники публикации, чтения и файловой доставки.</text>
+  <rect x="410" y="267" width="1005" height="415" rx="14" fill="#f6f9fa" stroke="#849ba5" stroke-width="1.5" stroke-dasharray="7 5" />
+  <text x="426" y="662" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1c3546">Интернет-банк  /  контейнеры, обслуживающие общие ставки</text>
+  <rect x="32" y="117" width="242" height="110" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="153.0" y="139" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Банковская система</text>
+  <text x="153.0" y="166" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#183546">АБС</text>
+  <text x="153.0" y="191" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Утверждает полный набор</text>
+  <text x="153.0" y="211" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">и периоды действия</text>
+  <rect x="445" y="117" width="255" height="110" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="572.5" y="139" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Платформа сообщений</text>
+  <text x="572.5" y="166" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#183546">Kafka</text>
+  <text x="572.5" y="191" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Поток опубликованных</text>
+  <text x="572.5" y="211" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">общих ставок</text>
+  <rect x="32" y="500" width="305" height="102" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="184.5" y="522" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Банковская система</text>
+  <text x="184.5" y="549" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#183546">CRM кол-центра</text>
+  <text x="184.5" y="574" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Запрашивает ставку при звонке</text>
+  <rect x="446" y="493" width="255" height="109" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="573.5" y="515" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Контейнер</text>
+  <text x="573.5" y="542" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#183546">Депозитный сервис</text>
+  <text x="573.5" y="567" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Общий HTTPS-интерфейс</text>
+  <text x="573.5" y="587" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">для сайта и CRM</text>
+  <rect x="851" y="493" width="255" height="109" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="978.5" y="515" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Хранилище · MS SQL</text>
+  <text x="978.5" y="542" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#183546">Витрина условий</text>
+  <text x="978.5" y="567" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Версии, ставки и периоды</text>
+  <rect x="851" y="319" width="255" height="107" rx="10" fill="#e7f1f6" stroke="#497691" stroke-width="1.6" />
+  <text x="978.5" y="341" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Контейнер</text>
+  <text x="978.5" y="368" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#183546">Обработчик витрины</text>
+  <text x="978.5" y="393" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Применяет новую версию</text>
+  <text x="978.5" y="413" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">условий целиком</text>
+  <rect x="446" y="319" width="255" height="107" rx="10" fill="#194d66" stroke="#194d66" stroke-width="1.6" />
+  <text x="573.5" y="341" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#ffffff">Контейнер в фокусе</text>
+  <text x="573.5" y="368" font-family="DejaVu Sans, sans-serif" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff">Обработчик выгрузки</text>
+  <text x="573.5" y="393" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#ffffff">Формирует и отправляет CSV</text>
+  <rect x="980" y="117" width="360" height="110" rx="10" fill="#fbefdb" stroke="#a78447" stroke-width="1.6" />
+  <text x="1160.0" y="139" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" font-weight="normal" fill="#183546">Внешняя система</text>
+  <text x="1160.0" y="166" font-family="DejaVu Sans, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#183546">Система партнёра</text>
+  <text x="1160.0" y="191" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">Входящий SFTP-каталог, импорт</text>
+  <text x="1160.0" y="211" font-family="DejaVu Sans, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#183546">и рабочее место оператора</text>
+  <polyline points="274,171 445,171" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="360" y="140" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Публикует</text>
+  <text x="360" y="158" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">полный снимок</text>
+  <polyline points="500,227 500,319" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="574" y="252" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Доставляет версию</text>
+  <polyline points="700,177 772,177 772,367 851,367" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="833" y="245" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Доставляет</text>
+  <text x="833" y="263" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">версию</text>
+  <polyline points="701,392 730,392 730,104 1097,104 1097,117" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="888" y="99" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Передаёт CSV по SFTP</text>
+  <polyline points="980,426 980,493" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="1057" y="465" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Записывает</text>
+  <polyline points="701,553 851,553" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="774" y="527" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">Читает по SQL</text>
+  <polyline points="337,553 446,553" fill="none" stroke="#476776" stroke-width="2" marker-end="url(#a)" />
+  <text x="390" y="529" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#1c3546">HTTPS</text>
+</svg>
