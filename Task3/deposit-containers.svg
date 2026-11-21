@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1850" viewBox="0 0 1600 1850" font-family="DejaVu Sans, sans-serif"><title>Открытие депозитов онлайн · Контейнеры</title>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto"><path d="M0 1L10 5L0 9Z" fill="#4c6576"/></marker></defs>
+<rect width="1600" height="1850" fill="#fcfdfd"/>
+<text x="40" y="50" font-size="32" font-weight="700" fill="#1a3445" text-anchor="start">Открытие депозитов онлайн · Контейнеры</text>
+<text x="40" y="82" font-size="16" font-weight="400" fill="#445b69" text-anchor="start">C4 · Уровень 2     /     MVP банка «Стандарт»     /     Рамки показывают границы систем. Повторяющиеся карточки обозначают один элемент.</text>
+<rect x="35" y="126" width="1045" height="650" rx="14" fill="#ffffff" stroke="#335e7d" stroke-width="1.6"/>
+<text x="55" y="157" font-size="21" font-weight="700" fill="#335e7d" text-anchor="start">Интернет-банк</text>
+<text x="55" y="180" font-size="15" font-weight="400" fill="#445b69" text-anchor="start">UC-1, UC-2, UC-3, UC-4 · Владелец депозитного сервиса, обработчика и витрины — команда интернет-банка.</text>
+<rect x="78" y="238" width="300" height="104" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="91" y="260" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">Веб-приложение · ASP.NET MVC 4.5</text>
+<text x="91" y="286" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Монолит интернет-банка</text>
+<text x="91" y="309" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Показывает вклады, принимает</text>
+<text x="91" y="327" font-size="15" font-weight="400" fill="#183144" text-anchor="start">счёт, сумму и СМС-код клиента.</text>
+<rect x="661" y="238" width="356" height="104" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="674" y="260" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">Приложение · HTTPS</text>
+<text x="674" y="286" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Сервис приёма заявок</text>
+<text x="674" y="309" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Проверяет код, принимает заявки,</text>
+<text x="674" y="327" font-size="15" font-weight="400" fill="#183144" text-anchor="start">выдаёт условия с учётом прав канала.</text>
+<rect x="78" y="454" width="300" height="100" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="91" y="476" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">База данных · MS SQL</text>
+<text x="91" y="502" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Данные монолита</text>
+<text x="91" y="525" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Существующее хранилище</text>
+<text x="91" y="543" font-size="15" font-weight="400" fill="#183144" text-anchor="start">интернет-банка.</text>
+<rect x="661" y="454" width="356" height="100" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="674" y="476" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">Хранилище · отдельная схема MS SQL</text>
+<text x="674" y="502" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Витрина условий</text>
+<text x="674" y="525" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Общие ставки и отдельная таблица</text>
+<text x="674" y="543" font-size="15" font-weight="400" fill="#183144" text-anchor="start">предложений по клиентам.</text>
+<rect x="661" y="638" width="356" height="100" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="674" y="660" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">Фоновое приложение</text>
+<text x="674" y="686" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Обработчик условий</text>
+<text x="674" y="709" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Читает ставки и персональные</text>
+<text x="674" y="727" font-size="15" font-weight="400" fill="#183144" text-anchor="start">предложения из Kafka.</text>
+<rect x="1264" y="123" width="300" height="94" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="1277" y="145" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка · PHP и React.js</text>
+<text x="1277" y="171" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Сайт</text>
+<text x="1277" y="194" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Депозитный сервис по HTTPS.</text>
+<rect x="1264" y="257" width="300" height="96" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="1277" y="279" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка</text>
+<text x="1277" y="305" font-size="18" font-weight="700" fill="#183144" text-anchor="start">СМС-шлюз</text>
+<text x="1277" y="328" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Передаёт код оператору для</text>
+<text x="1277" y="346" font-size="15" font-weight="400" fill="#183144" text-anchor="start">доставки клиенту.</text>
+<rect x="1264" y="434" width="300" height="102" rx="12" fill="#f3ebf7" stroke="#71578b" stroke-width="1.6"/>
+<text x="1277" y="456" font-size="13" font-weight="700" fill="#71578b" text-anchor="start">Платформа обмена</text>
+<text x="1277" y="482" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Apache Kafka</text>
+<text x="1277" y="505" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Раздельные потоки заявок,</text>
+<text x="1277" y="523" font-size="15" font-weight="400" fill="#183144" text-anchor="start">ставок и предложений.</text>
+<rect x="1264" y="652" width="300" height="98" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="1277" y="674" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка · потребитель</text>
+<text x="1277" y="700" font-size="18" font-weight="700" fill="#183144" text-anchor="start">CRM кол-центра</text>
+<text x="1277" y="723" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Менеджер звонит посетителю,</text>
+<text x="1277" y="741" font-size="15" font-weight="400" fill="#183144" text-anchor="start">приглашает в отделение.</text>
+<polyline points="378,289 660,289" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="518" y="249" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">HTTPS · запрашивает условия,</text>
+<text x="518" y="266" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">передаёт параметры и код</text>
+<polyline points="231,342 231,453" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="305" y="399" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Работает</text>
+<text x="305" y="416" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">с данными</text>
+<polyline points="1264,167 1124,167 1124,251 1018,251" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1190" y="137" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Читает ставки,</text>
+<text x="1190" y="154" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">подаёт заявку</text>
+<polyline points="1017,288 1263,288" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1145" y="277" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Одноразовый код</text>
+<polyline points="1017,328 1153,328 1153,459 1263,459" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1210" y="392" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Два вида</text>
+<text x="1210" y="409" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">заявок</text>
+<polyline points="850,342 850,453" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="959" y="389" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Читает общие ставки</text>
+<text x="959" y="406" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">или предложения клиента</text>
+<polyline points="1264,507 1113,507 1113,685 1018,685" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1190" y="577" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Ставки и готовые</text>
+<text x="1190" y="594" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">предложения</text>
+<polyline points="844,638 844,555" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="944" y="600" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Обновляет витрину</text>
+<polyline points="1420,536 1420,651" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1496" y="578" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Обращения</text>
+<text x="1496" y="595" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">для звонка</text>
+<text x="77" y="630" font-size="16" font-weight="700" fill="#1a3445" text-anchor="start">Клиент получает подтверждение приёма после</text>
+<text x="77" y="656" font-size="16" font-weight="700" fill="#1a3445" text-anchor="start">записи заявки репликами Kafka.</text>
+<text x="77" y="700" font-size="15" font-weight="400" fill="#455b69" text-anchor="start">Публичный интерфейс возвращает общие ставки.</text>
+<text x="77" y="725" font-size="15" font-weight="400" fill="#455b69" text-anchor="start">Доступ к персональным предложениям требует сессии.</text>
+<text x="40" y="864" font-size="26" font-weight="700" fill="#1a3445" text-anchor="start">Обработка в АБС</text>
+<text x="40" y="895" font-size="16" font-weight="400" fill="#445b69" text-anchor="start">UC-2, UC-3, UC-4, UC-5 · Сотрудники работают в пределах прав своего подразделения. Депозит оформляет бэк-офис.</text>
+<rect x="356" y="940" width="794" height="813" rx="14" fill="#ffffff" stroke="#386b52" stroke-width="1.6"/>
+<text x="376" y="971" font-size="21" font-weight="700" fill="#386b52" text-anchor="start">Автоматизированная банковская система (АБС)</text>
+<text x="376" y="994" font-size="15" font-weight="400" fill="#445b69" text-anchor="start">Владелец приложений, интеграций и учётных данных — команда АБС.</text>
+<rect x="400" y="1238" width="288" height="128" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="413" y="1260" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">Приложение · Delphi</text>
+<text x="413" y="1286" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Рабочее место АБС</text>
+<text x="413" y="1309" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Импорт и публикация ставок,</text>
+<text x="413" y="1327" font-size="15" font-weight="400" fill="#183144" text-anchor="start">обработка заявки и проверка</text>
+<text x="413" y="1345" font-size="15" font-weight="400" fill="#183144" text-anchor="start">личности в отделении.</text>
+<rect x="806" y="1238" width="300" height="114" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="819" y="1260" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">База данных · Oracle / PL/SQL</text>
+<text x="819" y="1286" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Учёт и условия вкладов</text>
+<text x="819" y="1309" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Черновики и публикации ставок,</text>
+<text x="819" y="1327" font-size="15" font-weight="400" fill="#183144" text-anchor="start">заявки и открытые вклады.</text>
+<rect x="806" y="1040" width="300" height="108" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="819" y="1062" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">Приложение · потребитель Kafka</text>
+<text x="819" y="1088" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Входящий адаптер</text>
+<text x="819" y="1111" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Регистрирует заявку однократно</text>
+<text x="819" y="1129" font-size="15" font-weight="400" fill="#183144" text-anchor="start">по её идентификатору.</text>
+<rect x="400" y="1522" width="288" height="110" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="413" y="1544" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">Фоновое приложение</text>
+<text x="413" y="1570" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Подбор предложений</text>
+<text x="413" y="1593" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Определяет адресатов для</text>
+<text x="413" y="1611" font-size="15" font-weight="400" fill="#183144" text-anchor="start">каждого предложения.</text>
+<rect x="806" y="1522" width="300" height="110" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="819" y="1544" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">Исходящая интеграция</text>
+<text x="819" y="1570" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Публикация условий</text>
+<text x="819" y="1593" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Отправляет версии общих ставок</text>
+<text x="819" y="1611" font-size="15" font-weight="400" fill="#183144" text-anchor="start">и предложения с ID клиента.</text>
+<rect x="36" y="1035" width="260" height="110" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="49" y="1057" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Кредитный бэк-офис</text>
+<text x="49" y="1083" font-size="17" font-weight="700" fill="#183144" text-anchor="start">Кредитный специалист</text>
+<text x="49" y="1106" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Импортирует XLS.</text>
+<text x="49" y="1124" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Оценивает риск клиента.</text>
+<rect x="36" y="1247" width="260" height="108" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="49" y="1269" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Депозитный бэк-офис</text>
+<text x="49" y="1295" font-size="17" font-weight="700" fill="#183144" text-anchor="start">Менеджер депозитов</text>
+<text x="49" y="1318" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Публикует общие ставки¹,</text>
+<text x="49" y="1336" font-size="15" font-weight="400" fill="#183144" text-anchor="start">подтверждает условия.</text>
+<rect x="36" y="1455" width="260" height="108" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="49" y="1477" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Фронт-офис</text>
+<text x="49" y="1503" font-size="17" font-weight="700" fill="#183144" text-anchor="start">Сотрудник отделения</text>
+<text x="49" y="1526" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Проверяет личность клиента</text>
+<text x="49" y="1544" font-size="15" font-weight="400" fill="#183144" text-anchor="start">после звонка кол-центра.</text>
+<rect x="1264" y="1040" width="300" height="108" rx="12" fill="#f3ebf7" stroke="#71578b" stroke-width="1.6"/>
+<text x="1277" y="1062" font-size="13" font-weight="700" fill="#71578b" text-anchor="start">Платформа обмена</text>
+<text x="1277" y="1088" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Apache Kafka</text>
+<text x="1277" y="1111" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Заявки интернет-банка.</text>
+<rect x="1264" y="1245" width="300" height="110" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="1277" y="1267" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка</text>
+<text x="1277" y="1293" font-size="18" font-weight="700" fill="#183144" text-anchor="start">СМС-шлюз</text>
+<text x="1277" y="1316" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Через оператора сообщает</text>
+<text x="1277" y="1334" font-size="15" font-weight="400" fill="#183144" text-anchor="start">клиенту о ставке и открытии.</text>
+<rect x="1264" y="1522" width="300" height="110" rx="12" fill="#f3ebf7" stroke="#71578b" stroke-width="1.6"/>
+<text x="1277" y="1544" font-size="13" font-weight="700" fill="#71578b" text-anchor="start">Платформа обмена</text>
+<text x="1277" y="1570" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Apache Kafka</text>
+<text x="1277" y="1593" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Передаёт условия обработчику</text>
+<text x="1277" y="1611" font-size="15" font-weight="400" fill="#183144" text-anchor="start">интернет-банка.</text>
+<polyline points="1264,1094 1107,1094" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1204" y="1059" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Заявка</text>
+<text x="1204" y="1076" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">на депозит</text>
+<polyline points="950,1148 950,1237" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1037" y="1187" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Регистрирует</text>
+<text x="1037" y="1204" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">по ID заявки</text>
+<polyline points="296,1092 372,1092 372,1266 399,1266" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="330" y="1066" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">XLS</text>
+<polyline points="168,1145 168,1246" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="245" y="1181" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Оценка риска</text>
+<text x="245" y="1198" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">по почте</text>
+<polyline points="296,1301 399,1301" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="324" y="1285" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Ставка</text>
+<polyline points="296,1502 373,1502 373,1340 399,1340" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="330" y="1485" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Визит</text>
+<polyline points="688,1302 805,1302" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="746" y="1266" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Сохраняет</text>
+<text x="746" y="1283" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">решение</text>
+<polyline points="1106,1300 1263,1300" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1205" y="1265" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Два СМС</text>
+<text x="1205" y="1282" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">о результате</text>
+<polyline points="858,1352 858,1420 542,1420 542,1521" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="686" y="1405" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Данные для выборки клиентов</text>
+<polyline points="993,1352 993,1521" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1062" y="1438" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Версия</text>
+<text x="1062" y="1455" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">общих ставок</text>
+<polyline points="688,1573 805,1573" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="747" y="1544" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Предложение</text>
+<text x="747" y="1561" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">с ID клиента</text>
+<polyline points="1106,1573 1263,1573" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1204" y="1536" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Публикует</text>
+<text x="1204" y="1553" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">условия</text>
+<text x="398" y="1690" font-size="15" font-weight="400" fill="#445b69" text-anchor="start">¹ Для MVP роль публикации предложена депозитному бэк-офису.</text>
+<text x="398" y="1718" font-size="15" font-weight="400" fill="#445b69" text-anchor="start">Для специальной ставки менеджер учитывает оценку кредитного специалиста в Excel.</text>
+<text x="40" y="1808" font-size="16" font-weight="400" fill="#445b69" text-anchor="start">Технологии указаны там, где они известны. Среду исполнения новых приложений команды выбирают при детализации.</text>
+</svg>

@@ -6,10 +6,10 @@
 
 | Задание | Каталог решения |
 | --- | --- |
-| 1 | [Task1](Task1/) |
-| 2 | [Task2](Task2/) |
-| 3 | [Task3](Task3/) |
-| 4 | [Task4](Task4/) |
-| 5 | [Task5](Task5/) |
+| 1 | [Карта IT-ландшафта](Task1/it-landscape.drawio) · [Схема интеграции приложений](Task1/application-integrations.drawio) · [Описание процессов](Task1/README.md) |
+| 2 | [Таблица требований FURPS+](Task2/FURPS+.md) |
+| 3 | [ADR открытия депозитов](Task3/ADR.md) · [Контекст C4](Task3/deposit-context.svg) · [Контейнеры C4](Task3/deposit-containers.svg) |
+| 4 | [ADR передачи ставок в кол-центры](Task4/ADR.md) · [Задачи по системам](Task4/work-items.md) · [RoadMap в draw.io](Task4/roadmap.drawio) |
+| 5 | [ADR онлайн-заявки на кредит](Task5/ADR.md) · [Контекст C4](Task5/credit-context.svg) · [Компоненты C4](Task5/credit-components.svg) |
 
 Решения всех пяти заданий сдаются одним pull request из рабочей ветки в основную.

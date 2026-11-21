@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram id="deposits" name="Открытие депозита">
+    <mxGraphModel page="1" pageWidth="1680" pageHeight="990" grid="1" gridSize="10" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Открытие депозита" style="text;align=left;fontSize=29;fontStyle=1;fontColor=#163755;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="18" width="1560" height="43" />
+        </mxCell>
+        <mxCell id="subtitle" value="Обычно клиент ждёт в отделении около 20 минут. При специальной ставке открытие депозита может занять до часа." style="text;align=left;fontSize=17;fontColor=#31455a;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="70" width="1580" height="40" />
+        </mxCell>
+        <mxCell id="legend" value="Овал — участник     ·     Прямоугольник — приложение или файл     ·     Пунктир — действие человека     ·     Сплошная стрелка — обмен между системами или доставка СМС" style="text;align=left;fontSize=15;fontColor=#384f65;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="915" width="1580" height="48" />
+        </mxCell>
+        <mxCell id="cr" value="Специалист&lt;br&gt;кредитного отдела" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="55" y="380" width="200" height="76" />
+        </mxCell>
+        <mxCell id="dep" value="Менеджер&lt;br&gt;депозитного отдела" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="475" y="380" width="200" height="76" />
+        </mxCell>
+        <mxCell id="front" value="Сотрудник&lt;br&gt;отделения" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="895" y="380" width="200" height="76" />
+        </mxCell>
+        <mxCell id="client" value="Клиент" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1315" y="380" width="200" height="76" />
+        </mxCell>
+        <mxCell id="excel1" value="Excel&lt;br&gt;Ежедневный расчёт ставок" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="55" y="145" width="200" height="76" />
+        </mxCell>
+        <mxCell id="excel2" value="Excel&lt;br&gt;Расчёт специальной ставки" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="475" y="145" width="200" height="76" />
+        </mxCell>
+        <mxCell id="cc" value="Оператор&lt;br&gt;кол-центра банка" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1425" y="490" width="200" height="76" />
+        </mxCell>
+        <mxCell id="crm" value="CRM кол-центра" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1190" y="610" width="200" height="76" />
+        </mxCell>
+        <mxCell id="abs" value="АБС" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="895" y="610" width="200" height="76" />
+        </mxCell>
+        <mxCell id="sms" value="СМС-шлюз банка" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="895" y="810" width="200" height="76" />
+        </mxCell>
+        <mxCell id="tel" value="Телеком-оператор" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1315" y="810" width="200" height="76" />
+        </mxCell>
+        <mxCell id="daily" source="cr" target="excel1" parent="1" edge="1" style="exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Рассчитывает ставку по ставке ЦБ,&lt;br&gt;объёмам кредитов и депозитов&lt;br&gt;и уровню риска">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-2" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rates" source="cr" target="dep" parent="1" edge="1" style="exitX=1;exitY=0.3;entryX=0;entryY=0.3;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Ежедневно по почте — Excel&lt;br&gt;с показателями и ставками">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="273" y="352" />
+              <mxPoint x="451" y="352" />
+            </Array>
+            <mxPoint as="offset" x="-3" y="-1" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riskask" source="dep" target="cr" parent="1" edge="1" style="exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="При большом остатке —&lt;br&gt;запрос данных для спецставки">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-4" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riskreply" source="cr" target="dep" parent="1" edge="1" style="exitX=1;exitY=0.7;entryX=0;entryY=0.7;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Письмо с данными о риске">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="272" y="473" />
+              <mxPoint x="451" y="473" />
+            </Array>
+            <mxPoint as="offset" x="2" y="4" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="read" source="cr" target="abs" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0;entryY=0.8;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Оценивает риск клиента&lt;br&gt;в кредитном разделе АБС">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="155" y="723" />
+              <mxPoint x="830" y="723" />
+              <mxPoint x="830" y="671" />
+            </Array>
+            <mxPoint as="offset" x="-47" y="0" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="calc" source="dep" target="excel2" parent="1" edge="1" style="exitX=0.5;exitY=0;entryX=0.5;entryY=1;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Вносит данные из письма&lt;br&gt;и рассчитывает ставку">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-2" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ask" source="front" target="dep" parent="1" edge="1" style="exitX=0;exitY=0.28;entryX=1;entryY=0.28;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Без звонка — письмо&lt;br&gt;с запросом ставки">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-34" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quote" source="dep" target="front" parent="1" edge="1" style="exitX=1;exitY=0.72;entryX=0;entryY=0.72;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Ответное письмо со ставкой">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="17" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="visit" source="client" target="front" parent="1" edge="1" style="exitX=0;exitY=0.3;entryX=1;entryY=0.3;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Подаёт заявку лично,&lt;br&gt;подтверждает открытие,&lt;br&gt;подписывает документы">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-32" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="docs" source="front" target="client" parent="1" edge="1" style="exitX=1;exitY=0.75;entryX=0;entryY=0.75;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Сообщает ставку,&lt;br&gt;выдаёт документы">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="1" y="21" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="call" source="client" target="cc" parent="1" edge="1" style="exitX=1;exitY=0.5;entryX=0.5;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Звонок до визита&lt;br&gt;(по желанию)">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1525" y="418" />
+            </Array>
+            <mxPoint as="offset" x="52" y="-60" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reg" source="cc" target="crm" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=1;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Регистрирует обращение">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1525" y="648" />
+            </Array>
+            <mxPoint as="offset" x="12" y="19" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="send" source="crm" target="abs" parent="1" edge="1" style="exitX=0;exitY=0.5;entryX=1;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Обращение">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-14" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pre" source="dep" target="abs" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0;entryY=0.35;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Обрабатывает обращение из кол-центра&lt;br&gt;и указывает ставку">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="575" y="637" />
+            </Array>
+            <mxPoint as="offset" x="-25" y="-2" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="open" source="front" target="abs" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Создаёт депозит,&lt;br&gt;загружает подписанные документы">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="7" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="notice" source="abs" target="sms" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Уведомление о ставке">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-2" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="route" source="sms" target="tel" parent="1" edge="1" style="exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="СМС для доставки">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-12" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deliver" source="tel" target="client" parent="1" edge="1" style="exitX=0.5;exitY=0;entryX=0.48;entryY=1;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="СМС со ставкой и приглашением&lt;br&gt;в отделение">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1415" y="700" />
+              <mxPoint x="1411" y="700" />
+            </Array>
+            <mxPoint as="offset" x="12" y="129" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="loans" name="Открытие кредита">
+    <mxGraphModel page="1" pageWidth="1680" pageHeight="990" grid="1" gridSize="10" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Открытие кредита" style="text;align=left;fontSize=29;fontStyle=1;fontColor=#163755;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="18" width="1560" height="43" />
+        </mxCell>
+        <mxCell id="subtitle" value="Заявка поступает из отделения. Сотрудник принимает решение по параметрам заявки и оценке скоринга." style="text;align=left;fontSize=17;fontColor=#31455a;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="70" width="1580" height="40" />
+        </mxCell>
+        <mxCell id="legend" value="Овал — участник     ·     Прямоугольник — приложение или внешний API     ·     Пунктир — действие человека     ·     Сплошная стрелка — обмен между системами" style="text;align=left;fontSize=15;fontColor=#384f65;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="45" y="915" width="1580" height="48" />
+        </mxCell>
+        <mxCell id="client" value="Клиент" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="55" y="175" width="200" height="76" />
+        </mxCell>
+        <mxCell id="front" value="Сотрудник&lt;br&gt;отделения" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="475" y="175" width="200" height="76" />
+        </mxCell>
+        <mxCell id="abs" value="АБС" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="475" y="425" width="200" height="76" />
+        </mxCell>
+        <mxCell id="pipe" value="Кредитный конвейер" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="915" y="425" width="200" height="76" />
+        </mxCell>
+        <mxCell id="mgr" value="Менеджер&lt;br&gt;кредитного отдела" style="ellipse;fillColor=#fff2d6;strokeColor=#9a7125;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="915" y="175" width="200" height="76" />
+        </mxCell>
+        <mxCell id="score" value="Кредитный скоринг" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="915" y="745" width="200" height="76" />
+        </mxCell>
+        <mxCell id="bureau" value="Бюро кредитных историй&lt;br&gt;Внешний REST API" style="rounded=0;fillColor=#e6f1fa;strokeColor=#47769a;strokeWidth=2;fontSize=16;fontColor=#172e42;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1360" y="745" width="200" height="76" />
+        </mxCell>
+        <mxCell id="apply" source="client" target="front" parent="1" edge="1" style="exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Подаёт заявку в отделении">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-11" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="register" source="front" target="abs" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Оформляет кредитную заявку">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-3" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="batch" source="abs" target="pipe" parent="1" edge="1" style="exitX=1;exitY=0.22;entryX=0;entryY=0.22;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Заявки через БД&lt;br&gt;раз в сутки">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="-1" y="-36" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="approved" source="pipe" target="abs" parent="1" edge="1" style="exitX=0;exitY=0.8;entryX=1;entryY=0.8;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Одобренные заявки&lt;br&gt;раз в сутки">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="-1" y="24" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="payment" value="После получения одобрения АБС проводит платёж&lt;br&gt;и зачисляет средства на счёт клиента." style="text;align=left;fontSize=16;fontColor=#31455a;html=1;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="44" y="415" width="375" height="90" />
+        </mxCell>
+        <mxCell id="decision" source="mgr" target="pipe" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Изучает заявку, принимает решение&lt;br&gt;и фиксирует финальный статус">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="-6" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clients" source="abs" target="score" parent="1" edge="1" style="exitX=0.5;exitY=1;entryX=0;entryY=0.5;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Из БД раз в сутки — сведения о клиентах&lt;br&gt;и платежи по кредитам">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="575" y="783" />
+            </Array>
+            <mxPoint as="offset" x="-19" y="-125" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ids" source="pipe" target="score" parent="1" edge="1" style="exitX=0.14;exitY=1;entryX=0.14;entryY=0;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Из БД раз в сутки — номера&lt;br&gt;платежей по договорам">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="-57" y="10" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="request" source="pipe" target="score" parent="1" edge="1" style="exitX=1;exitY=0.4;entryX=1;entryY=0.25;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Запрос оценки по API&lt;br&gt;при рассмотрении заявки">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1190" y="455" />
+              <mxPoint x="1190" y="764" />
+            </Array>
+            <mxPoint as="offset" x="0" y="-41" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rating" source="score" target="pipe" parent="1" edge="1" style="exitX=0.72;exitY=0;entryX=0.72;entryY=1;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Оценка клиента&lt;br&gt;в ответе API">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="-2" y="64" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="history" source="score" target="bureau" parent="1" edge="1" style="exitX=1;exitY=0.35;entryX=0;entryY=0.35;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Запрос в БКИ&lt;br&gt;онлайн">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="42" y="-25" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reply" source="bureau" target="score" parent="1" edge="1" style="exitX=0;exitY=0.8;entryX=1;entryY=0.8;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=0;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Кредитная история">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="-2" y="17" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="receipt" source="front" target="client" parent="1" edge="1" style="exitX=0;exitY=0.8;entryX=1;entryY=0.8;exitPerimeter=1;entryPerimeter=1;rounded=0;endArrow=block;endFill=1;html=1;strokeWidth=1.6;strokeColor=#425970;dashed=1;fontSize=14;fontFamily=Arial;labelBackgroundColor=#ffffff;fontColor=#203b52;" value="Сообщает, что банк&lt;br&gt;рассмотрит заявку">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="offset" x="0" y="25" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

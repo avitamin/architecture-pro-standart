@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840" font-family="DejaVu Sans, sans-serif"><title>Открытие депозитов онлайн · Контекст</title>
+<defs><marker id="arrow" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="10" refX="10" refY="5" orient="auto"><path d="M0 1L10 5L0 9Z" fill="#4c6576"/></marker></defs>
+<rect width="1600" height="840" fill="#fcfdfd"/>
+<text x="40" y="50" font-size="32" font-weight="700" fill="#1a3445" text-anchor="start">Открытие депозитов онлайн · Контекст</text>
+<text x="41" y="82" font-size="17" font-weight="400" fill="#455b69" text-anchor="start">C4 · Уровень 1     /     MVP банка «Стандарт»</text>
+<rect x="40" y="117" width="312" height="99" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="53" y="139" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Человек</text>
+<text x="53" y="165" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Посетитель сайта</text>
+<text x="53" y="188" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Оставляет телефон для звонка.</text>
+<rect x="429" y="117" width="308" height="99" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="442" y="139" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Человек</text>
+<text x="442" y="165" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Клиент интернет-банка</text>
+<text x="442" y="188" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Подтверждает заявку СМС-кодом.</text>
+<rect x="755" y="117" width="277" height="106" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="768" y="139" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Кредитный бэк-офис</text>
+<text x="768" y="165" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Кредитный специалист</text>
+<text x="768" y="188" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Автор расчёта ставок,</text>
+<text x="768" y="206" font-size="15" font-weight="400" fill="#183144" text-anchor="start">оценивает риск клиента.</text>
+<rect x="1044" y="117" width="261" height="106" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="1057" y="139" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Депозитный бэк-офис</text>
+<text x="1057" y="165" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Менеджер депозитов</text>
+<text x="1057" y="188" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Владелец условий¹,</text>
+<text x="1057" y="206" font-size="15" font-weight="400" fill="#183144" text-anchor="start">обрабатывает заявку.</text>
+<rect x="1320" y="117" width="258" height="106" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="1333" y="139" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Фронт-офис</text>
+<text x="1333" y="165" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Сотрудник отделения</text>
+<text x="1333" y="188" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Идентифицирует клиента.</text>
+<rect x="40" y="355" width="312" height="104" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="53" y="377" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка</text>
+<text x="53" y="403" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Сайт</text>
+<text x="53" y="426" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Общие ставки и форма для звонка.</text>
+<rect x="526" y="355" width="365" height="111" rx="12" fill="#e7f1f9" stroke="#335e7d" stroke-width="1.6"/>
+<text x="539" y="377" font-size="13" font-weight="700" fill="#335e7d" text-anchor="start">Система в фокусе</text>
+<text x="539" y="403" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Интернет-банк</text>
+<text x="539" y="426" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Личный кабинет, депозитный сервис</text>
+<text x="539" y="444" font-size="15" font-weight="400" fill="#183144" text-anchor="start">и витрина для обоих каналов.</text>
+<rect x="1118" y="355" width="399" height="111" rx="12" fill="#e5f2eb" stroke="#386b52" stroke-width="1.6"/>
+<text x="1131" y="377" font-size="13" font-weight="700" fill="#386b52" text-anchor="start">Система банка</text>
+<text x="1131" y="403" font-size="18" font-weight="700" fill="#183144" text-anchor="start">АБС</text>
+<text x="1131" y="426" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Рассчитывает предложения, хранит ставки,</text>
+<text x="1131" y="444" font-size="15" font-weight="400" fill="#183144" text-anchor="start">регистрирует заявки и открытие вклада.</text>
+<polyline points="196,216 196,354" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="260" y="266" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Запрашивает</text>
+<text x="260" y="283" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">обратный звонок</text>
+<polyline points="643,216 643,354" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="725" y="266" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Выбирает вклад,</text>
+<text x="725" y="283" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">подаёт заявку</text>
+<polyline points="943,223 943,312 1154,312 1154,354" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1028" y="259" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Импортирует XLS,</text>
+<text x="1028" y="276" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">оценивает риск</text>
+<polyline points="1196,223 1196,354" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1257" y="259" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Публикует</text>
+<text x="1257" y="276" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">ставки</text>
+<polyline points="1453,223 1453,354" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1518" y="259" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Проверяет</text>
+<text x="1518" y="276" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">личность</text>
+<polyline points="352,393 525,393" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="438" y="361" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Подаёт обращение</text>
+<text x="438" y="378" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">на звонок</text>
+<polyline points="526,446 353,446" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="440" y="418" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Общие ставки</text>
+<text x="440" y="435" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">из витрины</text>
+<polyline points="891,393 1117,393" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1005" y="364" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Передаёт подтверждённую</text>
+<text x="1005" y="381" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">заявку на депозит</text>
+<polyline points="1118,446 892,446" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1007" y="418" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Поставляет ставки</text>
+<text x="1007" y="435" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">и адресные предложения</text>
+<rect x="40" y="550" width="312" height="100" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="53" y="572" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка</text>
+<text x="53" y="598" font-size="18" font-weight="700" fill="#183144" text-anchor="start">CRM кол-центра</text>
+<text x="53" y="621" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Регистрирует обращение.</text>
+<rect x="526" y="550" width="365" height="100" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="539" y="572" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Система банка</text>
+<text x="539" y="598" font-size="18" font-weight="700" fill="#183144" text-anchor="start">СМС-шлюз</text>
+<text x="539" y="621" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Передаёт сообщения оператору связи.</text>
+<rect x="1118" y="550" width="399" height="100" rx="12" fill="#f0f3f5" stroke="#536675" stroke-width="1.6"/>
+<text x="1131" y="572" font-size="13" font-weight="700" fill="#536675" text-anchor="start">Внешняя система</text>
+<text x="1131" y="598" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Телеком-оператор</text>
+<text x="1131" y="621" font-size="15" font-weight="400" fill="#183144" text-anchor="start">Доставляет СМС на телефон клиента.</text>
+<polyline points="567,466 567,504 196,504 196,549" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="384" y="493" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Доставляет обращение с сайта</text>
+<polyline points="780,466 780,549" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="709" y="512" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">СМС-код</text>
+<polyline points="1153,466 1153,514 850,514 850,549" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1003" y="497" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Ставка и открытие вклада</text>
+<polyline points="891,604 1117,604" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="1005" y="589" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Передаёт СМС</text>
+<rect x="40" y="742" width="312" height="75" rx="12" fill="#faf3e7" stroke="#796341" stroke-width="1.6"/>
+<text x="53" y="764" font-size="13" font-weight="700" fill="#796341" text-anchor="start">Человек</text>
+<text x="53" y="790" font-size="18" font-weight="700" fill="#183144" text-anchor="start">Менеджер кол-центра</text>
+<polyline points="196,742 196,651" fill="none" stroke="#4c6576" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="313" y="691" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">Берёт обращение в CRM,</text>
+<text x="313" y="708" font-size="14" font-weight="400" fill="#384e60" text-anchor="middle">звонит посетителю</text>
+<text x="526" y="715" font-size="16" font-weight="400" fill="#1a3445" text-anchor="start">¹ Для MVP предполагается, что общие ставки публикует депозитный бэк-офис.</text>
+<text x="526" y="746" font-size="15" font-weight="400" fill="#445b69" text-anchor="start">Связи с CRM и АБС показывают назначение сообщений. Передача через Kafka раскрыта на уровне контейнеров.</text>
+</svg>
