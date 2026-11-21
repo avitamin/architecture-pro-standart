@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 735" width="1640" height="735" role="img">
+  <title>Онлайн-заявка на кредит</title>
+  <desc>C4 · Контекст Кредитного конвейера. Стрелка показывает направление действия или передачи данных.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#4c6673" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1640" height="735" fill="#fff" />
+  <text x="28" y="43" font-family="DejaVu Sans, sans-serif" font-size="29" text-anchor="start" fill="#193547" font-weight="bold">Онлайн-заявка на кредит</text>
+  <text x="28" y="76" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" fill="#193547" font-weight="normal">C4 · Контекст Кредитного конвейера. Стрелка показывает направление действия или передачи данных.</text>
+  <rect x="20" y="132" width="238" height="85" rx="10" fill="#eff1f6" stroke="#555f75" stroke-width="1.6" />
+  <text x="139.0" y="156.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Человек</text>
+  <text x="139.0" y="180.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Новый клиент</text>
+  <text x="139.0" y="203.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal" />
+  <rect x="326" y="132" width="234" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="443.0" y="156.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Система</text>
+  <text x="443.0" y="180.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Сайт банка</text>
+  <text x="443.0" y="203.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Публичная форма</text>
+  <path d="M258 175 L326 175" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <rect x="20" y="325" width="238" height="85" rx="10" fill="#eff1f6" stroke="#555f75" stroke-width="1.6" />
+  <text x="139.0" y="349.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Человек</text>
+  <text x="139.0" y="373.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Действующий клиент</text>
+  <text x="139.0" y="396.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal" />
+  <rect x="326" y="325" width="234" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="443.0" y="349.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Система</text>
+  <text x="443.0" y="373.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Интернет-банк</text>
+  <text x="443.0" y="396.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Приём заявок и витрина</text>
+  <path d="M258 368 L326 368" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <rect x="20" y="518" width="238" height="85" rx="10" fill="#eff1f6" stroke="#555f75" stroke-width="1.6" />
+  <text x="139.0" y="542.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Человек</text>
+  <text x="139.0" y="566.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Сотрудник отделения</text>
+  <text x="139.0" y="589.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal" />
+  <rect x="326" y="518" width="234" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="443.0" y="542.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Система</text>
+  <text x="443.0" y="566.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">АБС</text>
+  <text x="443.0" y="589.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Рабочее место отделения</text>
+  <path d="M258 561 L326 561" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <rect x="820" y="120" width="230" height="507" rx="10" fill="#174f69" stroke="#16445b" stroke-width="1.6" />
+  <text x="935.0" y="355.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="white" font-weight="normal">Система в фокусе</text>
+  <text x="935.0" y="379.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="white" font-weight="bold">Кредитный конвейер</text>
+  <text x="935.0" y="402.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="normal">Ведёт кредитную заявку</text>
+  <path d="M560 166 L820 166" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="690.0" y="158" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Читает своё решение</text>
+  <path d="M820 201 L560 201" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="690.0" y="193" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Сообщает о готовности</text>
+  <path d="M443 217 L443 325" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="457" y="265" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="start" fill="#193547" font-weight="normal">Подаёт заявку, читает каталог</text>
+  <path d="M560 357 L820 357" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="690.0" y="349" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Доставляет онлайн-заявки</text>
+  <path d="M820 407 L560 407" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="690.0" y="382" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Публикует условия</text>
+  <text x="690.0" y="399" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">и предложения</text>
+  <path d="M560 560 L820 560" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="690.0" y="552" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Находит и дополняет заявку</text>
+  <rect x="1295" y="115" width="310" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="1450.0" y="139.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Система банка</text>
+  <text x="1450.0" y="163.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Кредитный скоринг</text>
+  <text x="1450.0" y="186.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Оценивает риск</text>
+  <path d="M1050 158 L1295 158" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="1172.5" y="150" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Запрашивает оценку</text>
+  <rect x="1295" y="262" width="310" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="1450.0" y="286.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Внешняя система</text>
+  <text x="1450.0" y="310.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">БКИ</text>
+  <text x="1450.0" y="333.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Предоставляет кредитную историю</text>
+  <path d="M1450 200 L1450 262" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="1461" y="236" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="start" fill="#193547" font-weight="normal">Запрашивает историю</text>
+  <rect x="1295" y="390" width="310" height="85" rx="10" fill="#e5f0f5" stroke="#27536a" stroke-width="1.6" />
+  <text x="1450.0" y="414.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Система банка</text>
+  <text x="1450.0" y="438.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">СМС-шлюз</text>
+  <text x="1450.0" y="461.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Доставка через оператора связи</text>
+  <path d="M1050 432 L1295 432" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="1172.5" y="424" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Запускает уведомление</text>
+  <rect x="1295" y="530" width="310" height="85" rx="10" fill="#eff1f6" stroke="#555f75" stroke-width="1.6" />
+  <text x="1450.0" y="554.5" font-family="DejaVu Sans, sans-serif" font-size="13" text-anchor="middle" fill="#193547" font-weight="normal">Человек</text>
+  <text x="1450.0" y="578.5" font-family="DejaVu Sans, sans-serif" font-size="17" text-anchor="middle" fill="#193547" font-weight="bold">Кредитный специалист</text>
+  <text x="1450.0" y="601.5" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Рассматривает заявку</text>
+  <path d="M1295 575 L1050 575" fill="none" stroke="#4c6673" stroke-width="1.8" marker-end="url(#arrow)" />
+  <text x="1172.5" y="567" font-family="DejaVu Sans, sans-serif" font-size="14" text-anchor="middle" fill="#193547" font-weight="normal">Работает с заявкой</text>
+  <text x="28" y="690" font-family="DejaVu Sans, sans-serif" font-size="16" text-anchor="start" fill="#193547" font-weight="normal">Онлайн-подача использует механизм приёма депозитного MVP. СМС-код интернет-банка выдаётся через тот же банковский шлюз.</text>
+</svg>
